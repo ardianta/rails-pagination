@@ -1,0 +1,1 @@
+Cek tutorial di [Rubypedia](https://www.rubypedia.com/blog/membuat-pagination-di-ruby-on-rails-dengan-gem-kaminari/)
